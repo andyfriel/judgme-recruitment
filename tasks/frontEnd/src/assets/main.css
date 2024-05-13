@@ -1,0 +1,6 @@
+@import './base.css';
+
+hr.Polaris-Divider {
+  margin: 10px 0;
+  width: 100%;
+}
